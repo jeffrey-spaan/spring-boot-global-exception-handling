@@ -18,7 +18,8 @@ First off, thank you for considering contributing to our project! The following 
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the community leaders.
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+Please report unacceptable behavior to the community leaders.
 
 ## How Can I Contribute?
 
